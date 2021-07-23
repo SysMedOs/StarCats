@@ -42,7 +42,10 @@ Please find the latest .exe version in the release page.
 
   + Download the `.zip` package
   + unzip it into a folder
-  + open Lipostar 2 
+  + start Lipostar 2 
+  + open Lipostar perferences
+  + set the path of `cli_lynx.exe` in Lipostar perferences
+    ![](./LipidLynxX/img/LipidLynxX_setup.png)
 
 + ### LPPtiger
 
