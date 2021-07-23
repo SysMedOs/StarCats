@@ -35,21 +35,23 @@ https://www.moldiscovery.com/software/lipostar/
 ## Download epilipidomics tools for Lipostar
 
 Please find the latest .exe version in the release page.
+[https://github.com/SysMedOs/StarCats/releases/](https://github.com/SysMedOs/StarCats/releases/)
 
 ## Instructions
 
 + ### LipidLynxX
 
-  + Download the `.zip` package
+  + Download the `LipidLynxX_for_Lipostar.zip` package
   + unzip it into a folder
   + start Lipostar 2 
   + open Lipostar perferences
   + set the path of `cli_lynx.exe` in Lipostar perferences
     ![](./LipidLynxX/img/LipidLynxX_setup.png)
+  + click on "Save And Exit" to save the settings
 
 + ### LPPtiger
 
-  + download the `.zip` package
+  + download the `LPPtiger_for_Lipostar.zip` package
 
   + unzip it into a folder
 
